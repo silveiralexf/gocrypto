@@ -1,3 +1,4 @@
+[![Go Report Cargithub.com/silveiralexf/wlogrusgithub.com/silveiralexf/wlogrusgithub.com/silveiralexf/wlogrusd](https://goreportcard.com/badge/github.com/silveiralexf/gocrypto)](https://goreportcard.com/report/github.com/silveiralexf/gocrypto)
 # gocrypto
 
 Command line encryption/decryption util (in progress).
